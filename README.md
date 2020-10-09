@@ -25,7 +25,7 @@ Repository of tasks for Machine Learning
 ## Instructions to run 
 Sample instructions 👇
 ```
-$ git clone https://github.com/CodeChefVIT/<Project>
+$ git clone https://github.com/CodeAsylums-Community/<Project>
 $ cd <Project>
 $ pip3 install -r requirements.txt
 $ python3 manage.py runserver
