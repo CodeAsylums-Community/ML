@@ -1,4 +1,5 @@
-# OpenCV program to detect face in real time import libraries of python OpenCV where its functionality resides
+# OpenCV program to detect face in real time 
+# Importing libraries of python OpenCV
 import cv2
 
 # loads the required trained XML classifiers for face and eye
