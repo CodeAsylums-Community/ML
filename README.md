@@ -34,6 +34,8 @@ $ python3 manage.py runserver
 ## Contributors
 Follow the guidelines mentioned in [Contribution Guidelines](https://github.com/CodeAsylums-Community/template/blob/main/CONTRIBUTIONS.md)
 - <a href="https://github.com/aaryan-kapur">Aaryan-Kapur</a>
+
+- <a href="https://github.com/IndraP24">Indrashis Paul</a>
 - <a href="https://github.com/<Contributor>">Contributor Name</a>
 
 ## License
